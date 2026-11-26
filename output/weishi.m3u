@@ -1,10 +1,8 @@
 #EXTM3U
 # Generated: IPTV Auto-Fetch v4 
-# Date: 2026-11-25 16:52
-# Total: 10 channels
+# Date: 2026-11-26 01:38
+# Total: 9 channels
 
-#EXTINF:-1 tvg-id="SichuanSatelliteTV.cn@SD",四川卫视 (576p)
-http://183.207.248.71/gitv/live1/SCWS/SCWS
 #EXTINF:-1 tvg-id="LiaoningTV.cn@SD",辽宁卫视 (576p)
 http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8
 #EXTINF:-1,四川 Ⅰ 巴中综合台 (1080p) [Not 24/7]
